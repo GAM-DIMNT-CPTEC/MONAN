@@ -1,2 +1,2 @@
 # MONAN
-Repositório referente a todas as atividades relacionadas à avaliação do MONAN
+Repositório referente às atividades relacionadas à avaliação do MONAN
